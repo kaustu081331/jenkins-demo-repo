@@ -1,1 +1,1 @@
-# jenkins-demo-repo
+# jenkins-example-scripts-python
